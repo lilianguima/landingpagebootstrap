@@ -1,0 +1,26 @@
+.container{
+   
+   margin: 10px; 
+   padding: 50px;
+}
+
+.fotofundo{
+    background-image: url(http://pm1.narvii.com/6498/c59214354cd156d6368fc472f6bd95ac5c539f37_00.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    height: 500px;
+    background-size: auto;
+    background-color: black;
+    backdrop-filter: blur(1px);
+}
+
+.containerindex{
+    margin: 10px;
+    padding: 10px;
+}
+
+.direcaocarousel{
+    padding: 10px;
+
+}
